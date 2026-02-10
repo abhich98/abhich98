@@ -12,8 +12,15 @@ I am Abhilash Cheekoti. I am a Physicist (MSc) with 3+ years of research experie
 - **[Bbo-labelgui-qt: A PyQt based GUI for guided data labeling](https://github.com/bbo-lab/bbo-labelgui-qt)**
   A fast and light PyQt based GUI for manual labeling of pre-defined key-points/markers in images, built for animal behavioral datasets.
 
-- **[Calipy: GUI for viewing "calibcam" camera calibration results](https://github.com/bbo-lab/calipy)**
+- **[Calipy:](https://github.com/bbo-lab/calipy)**
+  GUI for viewing "calibcam" camera calibration results
 
+  
+
+### ⚡ Fun Projects
+- **[buffons_needles_pi:](https://github.com/abhich98/buffons_needles_pi)**
+  Simple script to analyse images from Buffon's needle (problem) experiment.
+  
 <!--
 **abhich98/abhich98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
