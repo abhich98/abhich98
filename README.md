@@ -15,6 +15,8 @@ I am Abhilash Cheekoti. I am a Physicist (MSc) with 3+ years of research experie
 - **[Calipy:](https://github.com/bbo-lab/calipy)**
   GUI for viewing "calibcam" camera calibration results
 
+### Machine Learning Projects
+- **[Titanic Survival Prediction](https://github.com/abhich98/MachineLearning/blob/main/kaggle_titanic_competation_pytorch.ipynb)**: A neural network based classifier for the Titanic dataset (from Kaggle), built using PyTorch.
   
 
 ### ⚡ Fun Projects
