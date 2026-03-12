@@ -22,6 +22,8 @@ I am Abhilash Cheekoti. I am a Physicist (MSc) with 3+ years of research experie
 ### ⚡ Fun Projects
 - **[buffons_needles_pi:](https://github.com/abhich98/buffons_needles_pi)**
   Simple script to analyse images from Buffon's needle (problem) experiment.
+- **[chat-n-learn:](https://github.com/abhich98/chat_n_learn)**
+  A prototype role-playing language tutor for Indian languages built on Google ADK and powered by Gemini models.
   
 <!--
 **abhich98/abhich98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
