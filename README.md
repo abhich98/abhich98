@@ -23,6 +23,8 @@ I am Abhilash Cheekoti. I am a Physicist (MSc) with 3+ years of research experie
   
 
 ### ⚡ Fun Projects
+- **[amba_paluku:](https://github.com/abhich98/amba_paluku)**
+  A daily Telugu learning web app with audio-supported questions and an archive of past lessons.
 - **[buffons_needles_pi:](https://github.com/abhich98/buffons_needles_pi)**
   Simple script to analyse images from Buffon's needle (problem) experiment.
 - **[chat-n-learn:](https://github.com/abhich98/chat_n_learn)**
