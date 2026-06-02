@@ -1,22 +1,24 @@
-## Hi there 👋
+## Abhilash Cheekoti — Computer Vision / Machine Learning Engineer
 
-I am Abhilash Cheekoti. I am a Physicist (MSc) with 3+ years of research experience at the intersection of neuroethology, computer vision, and machine learning using Python.
+
+I am an ML Engineer with 4 years of experience building geometric computer vision + machine learning pipelines at the Max Planck Institute (MPINB, Bonn). My work at MPINB focused on multi-camera 3D reconstruction, sensor fusion, deep learning, and production Python software. With a strong background in physics, I approach problems from first principles, train and evaluate models rigorously, and build robust software solutions.
+ 
 
 ---
 
 ### 🚀 Featured Projects
 
 - **[calibcam: Multi-camera calibration software.](https://github.com/bbo-lab/calibcam)**
-  A charuco based calibrator for multi-camera setups, including omnidirectional cameras. It extends OpenCV’s calibration functionality by adding an optimization routine to estimate intrinsic and extrinsic parameters for multi-camera setups using SciPy and JAX.
+  A charuco based calibrator for multi-camera setups, including omnidirectional cameras. It extends OpenCV’s calibration functionality to multi-camera setups using SciPy and JAX.
 
 - **[EsMS:](https://github.com/abhich98/EsMS)**
-  An energy storage management system (EsMS) prototype for optimizing the operation of a multi-asset entity with PV generation, battery storage, and grid interaction. The main objective is to test different solvers and compare deterministic optimization vs scenario-based stochastic optimization.
-
-- **[amba_paluku:](https://github.com/abhich98/amba_paluku)**
-  A (Telugu) language learning web app for daily practice with audio-supported questions and an archive of past lessons.
+  An energy storage management system (EsMS) prototype for optimizing the operation of a multi-asset entity with PV generation, battery storage, and grid interaction. *Pyomo, Docker, Streamlit, Mixed-Integer Linear Programming (MILP), and Stochastic Optimization*
 
 - **[pig_posture_kaggle_project:](https://github.com/abhich98/pig_posture_kaggle_project)**
   A PyTorch (Lightning) based pipeline for training image classification models on pig posture datasets. The project includes data preprocessing, model training, and evaluation scripts, along with Jupyter notebooks for exploratory data analysis.
+
+- **[amba_paluku:](https://github.com/abhich98/amba_paluku)**
+  A (Telugu) language learning web app for daily practice with audio-supported questions and an archive of past lessons.
 
 ### Graphical User Interfaces (GUIs)
 
