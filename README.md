@@ -11,8 +11,8 @@ I am an ML/Computer Vision Engineer based in Germany with a background in Physic
 - **[calibcam: Multi-camera calibration software.](https://github.com/bbo-lab/calibcam)**
   A charuco based calibrator for **multi-camera setups**, including omnidirectional cameras. It extends OpenCV’s calibration functionality to multi-camera setups using SciPy and JAX.
 
-- **[EsMS:](https://github.com/abhich98/EsMS)**
-  An energy storage management system (EsMS) prototype for optimizing the operation of a multi-asset entity with PV generation, battery storage, and grid interaction. *Pyomo, Docker, Streamlit, Mixed-Integer Linear Programming (MILP), and Stochastic Optimization*
+- **[energy_system_optimizer:](https://github.com/abhich98/energy_system_optimizer)**
+  A Python package and FastAPI service for optimizing operation of systems with PV, battery storage, and grid exchange. *Pyomo, Docker, Streamlit, Mixed-Integer Linear Programming (MILP), and Stochastic Optimization*
 
 - **[pig_posture_kaggle_project:](https://github.com/abhich98/pig_posture_kaggle_project)**
   A PyTorch (Lightning) based pipeline for training **image classification models** on pig posture datasets. The project includes data preprocessing, model training, and evaluation scripts, along with Jupyter notebooks for exploratory data analysis.
