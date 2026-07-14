@@ -5,17 +5,21 @@ I am an ML/Computer Vision Engineer based in Germany with a background in Physic
  
 
 ---
-
-### 🚀 Featured Projects
+### Computer Vision
 
 - **[calibcam: Multi-camera calibration software.](https://github.com/bbo-lab/calibcam)**
   A charuco based calibrator for **multi-camera setups**, including omnidirectional cameras. It extends OpenCV’s calibration functionality to multi-camera setups using SciPy and JAX.
 
-- **[energy_system_optimizer:](https://github.com/abhich98/energy_system_optimizer)**
-  A Python package and FastAPI service for optimizing operation of systems with PV, battery storage, and grid exchange. *Pyomo, Docker, Streamlit, Mixed-Integer Linear Programming (MILP), and Stochastic Optimization*
+- **[STFPM: Visual Anomaly Detection](https://github.com/abhich98/STFPM-Visual-Anomaly-Detection)**
+  Built an end-to-end *anomaly detection* system reproducing the STFPM model on MVTec AD dataset; refactored into a modular, config-driven package with a full MLOps lifecycle (training $\to$ evaluation $\to$ ONNX export $\to$ validation $\to$ benchmarking $\to$ inference)
 
 - **[pig_posture_kaggle_project:](https://github.com/abhich98/pig_posture_kaggle_project)**
-  A PyTorch (Lightning) based pipeline for training **image classification models** on pig posture datasets. The project includes data preprocessing, model training, and evaluation scripts, along with Jupyter notebooks for exploratory data analysis.
+  A PyTorch (Lightning) based pipeline for training **image classification models** on pig posture datasets. The project includes data preprocessing, model training, and evaluation scripts, along with Jupyter notebooks for EDA.
+
+### 🚀 Other Featured Projects
+
+- **[energy_system_optimizer:](https://github.com/abhich98/energy_system_optimizer)**
+  A Python package and FastAPI service for optimizing operation of systems with PV, battery storage, and grid exchange. *Pyomo, Docker, Streamlit, Mixed-Integer Linear Programming (MILP), and Stochastic Optimization*
 
 - **[amba_paluku:](https://github.com/abhich98/amba_paluku)**
   A (Telugu) language learning web app for daily practice with audio-supported questions and an archive of past lessons.
