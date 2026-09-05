@@ -1,10 +1,19 @@
-## Abhilash Cheekoti — Machine Learning / Computer Vision Engineer
+## Abhilash Cheekoti — Machine Learning Engineer
 
 
-I am an ML/Computer Vision Engineer based in Germany with a background in Physics. Proficient in Python, I enjoy building rigorous analytical workflows and production-ready software systems. Along with machine learning and geometric modelling, I am particularly interested in the applications of mathematical optimization.
+I am a Machine Learning Engineer based in Germany with a background in Physics. Proficient in Python, I enjoy building rigorous analytical workflows and production-ready software. Along with machine learning and geometric modelling, I am particularly interested in the applications of mathematical optimization.
  
 
 ---
+### Timeseries data - Energy
+
+- **[Leak-free Energy Price Forecasting](https://github.com/abhich98/leakfree-energy-price-forecasting)**
+  An end-to-end *ETL and energy-price forecasting pipeline* for German market data using Python, PostgreSQL and dbt, integrating market/weather data from SMARD/Open-Meteo APIs.
+
+- **[energy_system_optimizer:](https://github.com/abhich98/energy_system_optimizer)**
+  A Python package and FastAPI service for optimizing operation of systems with PV, battery storage, and grid exchange. *Pyomo, Docker, Streamlit, Mixed-Integer Linear Programming (MILP), and Stochastic Optimization*
+
+
 ### Computer Vision
 
 - **[calibcam: Multi-camera calibration software.](https://github.com/bbo-lab/calibcam)**
@@ -17,9 +26,6 @@ I am an ML/Computer Vision Engineer based in Germany with a background in Physic
   A PyTorch (Lightning) based pipeline for training **image classification models** on pig posture datasets. The project includes data preprocessing, model training, and evaluation scripts, along with Jupyter notebooks for EDA.
 
 ### 🚀 Other Featured Projects
-
-- **[energy_system_optimizer:](https://github.com/abhich98/energy_system_optimizer)**
-  A Python package and FastAPI service for optimizing operation of systems with PV, battery storage, and grid exchange. *Pyomo, Docker, Streamlit, Mixed-Integer Linear Programming (MILP), and Stochastic Optimization*
 
 - **[amba_paluku:](https://github.com/abhich98/amba_paluku)**
   A (Telugu) language learning web app for daily practice with audio-supported questions and an archive of past lessons.
